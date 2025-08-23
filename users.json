@@ -1,0 +1,30 @@
+{
+    "akshat": {
+        "password": "669c8a2d3f047d42b2d53f62a4d8853b$3aee682ebf0198324a85d692fd75689bac0b2cb449ec08594501d6482b40dc6c",
+        "face_data_file": "face_data\\akshat_faces.npy",
+        "security_questions": [
+            {
+                "question": "fathers name",
+                "answer": "a28fa0a0416afe6300b962cbbdd5edde$7251b810992618f35b3a6bd3e77efb61265c686d27fc055a8e9f715ba4e25e9c"
+            },
+            {
+                "question": "mothers name",
+                "answer": "6d1d5e0c753f56649951be1b2a90deb4$b1461894d2799077adea13c70204a41173a9e7530671ff4ebba9a8260816870d"
+            }
+        ]
+    },
+    "tathagata": {
+        "password": "dda1034d7b611c04f386cfc591b4f42c$6cb3a8b95ce3d15af69261de17b319e298a05167a791ce91865f3020e8b330b5",
+        "face_data_file": "face_data\\tathagata_faces.npy",
+        "security_questions": [
+            {
+                "question": "fathers name",
+                "answer": "26794e57abc04e6259f1cae6d3d6cb99$dd9818a770679f999134d7ce95855e62f4191cbdb085f93962200b495e960a1b"
+            },
+            {
+                "question": "mothers name",
+                "answer": "cb9c9533f7b31e7fb250477c18660f98$f3a6493c97f2e1201b2d6c3db3baf0da9b07d845e9bfc39ef13bb7d1ccf51281"
+            }
+        ]
+    }
+}
